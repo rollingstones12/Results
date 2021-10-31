@@ -1,0 +1,41 @@
+{'0': 'Ford Explorer 2018', '1': 'Ford Transit 2016', '2': 'Ford Expedition 2017', '3': 'GMC Yukon 2004', '4': 'Toyota Tacoma 2010', '5': 'GMC Savana Van 2012', '6': 'Ford Transit 2016', '7': 'Subaru Legacy Sedan B4 2010', '8': 'Honda Ridgeline 2016', '9': 'Chevrolet Silverado 1500 Extended Cab 2012', '10': 'Subaru Legacy Sedan B4 2010', '11': 'Honda Accord Coupe 2012'}
+precision average=macro
+0.2073170731707317
+precision average=micro
+0.5377358490566038
+precision average=weighted
+0.9009433962264151
+precision average=None
+[0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  1.  0.  0.  0.  0.
+ 0.  0.  0.  0.  0.  0.5 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  1.  1.
+ 1.  1.  1.  1.  1. ]
+accuracy is
+0.5377358490566038
+Recall score average=macro
+0.8555634156593772
+Recall score average=micro
+0.5377358490566038
+Recall Score average=weighted
+0.5377358490566038
+Recall Score average=None
+[1.         1.         1.         1.         1.         1.
+ 1.         1.         1.         1.         1.         1.
+ 1.         0.         1.         1.         1.         1.
+ 1.         1.         1.         1.         1.         0.69230769
+ 0.         1.         1.         1.         1.         1.
+ 1.         1.         1.         1.         1.         0.85245902
+ 0.68       0.32       0.         0.53333333 0.        ]
+F1 score average=macro
+0.1095371612652816
+F1 score average=micro
+0.5377358490566038
+F1 Score average=weighted
+0.5948331692827737
+F1 Score average=None
+[0.         0.         0.         0.         0.         0.
+ 0.         0.         0.         0.         0.         0.
+ 0.         0.         0.         0.         0.         0.
+ 0.         0.         0.         0.         0.         0.58064516
+ 0.         0.         0.         0.         0.         0.
+ 0.         0.         0.         0.         1.         0.92035398
+ 0.80952381 0.48484848 0.         0.69565217 0.        ]

@@ -1,0 +1,45 @@
+{'0': 'Ford Explorer 2018', '1': 'Ford Transit 2016', '2': 'Ford Expedition 2017', '3': 'Ford Explorer 2018', '4': 'Ford Transit 2016', '5': 'Ford Expedition 2017', '6': 'GMC Yukon 2004', '7': 'GMC Yukon 2004', '8': 'Toyota Tacoma 2010', '9': 'Toyota Tacoma 2010', '10': 'GMC Savana Van 2012', '11': 'GMC Savana Van 2012', '12': 'Ford Transit 2016', '13': 'GMC Savana Van 2012', '14': 'Subaru Legacy Sedan B4 2010', '15': 'Honda Ridgeline 2016', '16': 'Chevrolet Silverado 1500 Extended Cab 2012', '17': 'Chevrolet Silverado 1500 Extended Cab 2012', '18': 'Honda Accord Coupe 2012', '19': 'Honda Accord Coupe 2012', '20': 'Honda Accord Coupe 2012'}
+precision average=macro
+0.22002923976608185
+precision average=micro
+0.3333333333333333
+precision average=weighted
+0.9526143790849673
+precision average=None
+[0.         0.         0.         0.         0.         0.
+ 0.         0.         0.         0.         0.         0.
+ 0.         0.         1.         0.         0.         0.
+ 0.         0.44444444 0.         0.         1.         0.
+ 0.         0.         0.         0.         0.         0.
+ 0.         0.         1.         1.         0.91666667 1.
+ 1.         1.        ]
+accuracy is
+0.3333333333333333
+Recall score average=macro
+0.8400451887293992
+Recall score average=micro
+0.3333333333333333
+Recall Score average=weighted
+0.3333333333333333
+Recall Score average=None
+[1.         1.         1.         1.         1.         1.
+ 1.         1.         1.         1.         1.         1.
+ 1.         1.         0.         1.         1.         1.
+ 1.         0.66666667 1.         1.         0.         1.
+ 1.         1.         1.         1.         1.         1.
+ 1.         1.         0.72727273 0.91666667 0.61111111 0.
+ 0.         0.        ]
+F1 score average=macro
+0.08066562286723675
+F1 score average=micro
+0.3333333333333333
+F1 Score average=weighted
+0.36413155651276535
+F1 Score average=None
+[0.         0.         0.         0.         0.         0.
+ 0.         0.         0.         0.         0.         0.
+ 0.         0.         0.         0.         0.         0.
+ 0.         0.53333333 0.         0.         0.         0.
+ 0.         0.         0.         0.         0.         0.
+ 0.         0.         0.84210526 0.95652174 0.73333333 0.
+ 0.         0.        ]

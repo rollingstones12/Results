@@ -1,0 +1,51 @@
+{'0': 'Ford Explorer 2018', '1': 'Ford Transit 2016', '2': 'Ford Explorer 2018', '3': 'Ford Explorer 2018', '4': 'Ford Expedition 2017', '5': 'Ford Transit 2016', '6': 'Ford Expedition 2017', '7': 'Ford Transit 2016', '8': 'GMC Yukon 2004', '9': 'GMC Yukon 2004', '10': 'Toyota Tacoma 2010', '11': 'Toyota Tacoma 2010', '12': 'Toyota Tacoma 2010', '13': 'Ford Transit 2016', '14': 'GMC Savana Van 2012', '15': 'Ford Transit 2016', '16': 'Subaru Legacy Sedan B4 2010', '17': 'Subaru Legacy Sedan B4 2010', '18': 'Honda Ridgeline 2016', '19': 'Ford Transit 2016', '20': 'Chevrolet Silverado 1500 Extended Cab 2012', '21': 'Subaru Legacy Sedan B4 2010', '22': 'Honda Ridgeline 2016', '23': 'Chevrolet Silverado 1500 Extended Cab 2012', '24': 'Honda Accord Coupe 2012'}
+precision average=macro
+0.20110544217687074
+precision average=micro
+0.5593869731800766
+precision average=weighted
+0.9885855683269476
+precision average=None
+[0.         0.         0.         0.         0.         0.
+ 0.         0.         0.         0.         0.         1.
+ 0.         0.         0.         0.         0.         0.
+ 0.         0.         0.         0.         0.         0.
+ 0.         0.875      0.         0.         0.         0.
+ 1.         0.         0.         0.         0.         0.
+ 0.         0.         0.         0.         0.         0.
+ 0.97916667 1.         1.         1.         1.         1.
+ 1.        ]
+accuracy is
+0.5593869731800766
+Recall score average=macro
+0.8735422740524782
+Recall score average=micro
+0.5593869731800766
+Recall Score average=weighted
+0.5593869731800766
+Recall Score average=None
+[1.         1.         1.         1.         1.         1.
+ 1.         1.         1.         1.         1.         0.
+ 1.         1.         1.         1.         1.         1.
+ 1.         1.         1.         1.         1.         1.
+ 1.         0.875      1.         1.         1.         1.
+ 0.         1.         1.         1.         1.         1.
+ 1.         1.         1.         1.         1.         1.
+ 1.         0.79310345 0.71428571 0.20689655 0.         0.21428571
+ 0.        ]
+F1 score average=macro
+0.08731062696912194
+F1 score average=micro
+0.5593869731800766
+F1 Score average=weighted
+0.6195286937893962
+F1 Score average=None
+[0.         0.         0.         0.         0.         0.
+ 0.         0.         0.         0.         0.         0.
+ 0.         0.         0.         0.         0.         0.
+ 0.         0.         0.         0.         0.         0.
+ 0.         0.875      0.         0.         0.         0.
+ 0.         0.         0.         0.         0.         0.
+ 0.         0.         0.         0.         0.         0.
+ 0.98947368 0.88461538 0.83333333 0.34285714 0.         0.35294118
+ 0.        ]

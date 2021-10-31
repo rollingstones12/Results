@@ -1,0 +1,45 @@
+{'0': 'Ford Transit 2016', '1': 'Ford Explorer 2018', '2': 'Ford Explorer 2018', '3': 'Ford Explorer 2018', '4': 'Ford Explorer 2018', '5': 'Ford Explorer 2018', '6': 'Ford Expedition 2017', '7': 'Ford Expedition 2017', '8': 'Ford Transit 2016', '9': 'GMC Yukon 2004', '10': 'Toyota Tacoma 2010', '11': 'Toyota Tacoma 2010', '12': 'GMC Yukon 2004', '13': 'GMC Yukon 2004', '14': 'Ford Transit 2016', '15': 'GMC Savana Van 2012', '16': 'Ford Transit 2016', '17': 'GMC Savana Van 2012', '18': 'Subaru Legacy Sedan B4 2010', '19': 'Honda Ridgeline 2016', '20': 'Ford Transit 2016', '21': 'Chevrolet Silverado 1500 Extended Cab 2012', '22': 'Chevrolet Silverado 1500 Extended Cab 2012', '23': 'Honda Accord Coupe 2012'}
+precision average=macro
+0.24289674289674287
+precision average=micro
+0.421455938697318
+precision average=weighted
+0.9773739256497876
+precision average=None
+[0.         0.         0.         0.         0.         0.
+ 0.         0.         0.         1.         0.         0.
+ 0.         0.         0.         0.         0.         0.
+ 0.         0.         0.         0.5        0.         1.
+ 0.         0.         0.         0.         0.         0.
+ 0.         0.         0.97297297 1.         1.         1.
+ 1.         1.         1.        ]
+accuracy is
+0.421455938697318
+Recall score average=macro
+0.8209179424564039
+Recall score average=micro
+0.421455938697318
+Recall Score average=weighted
+0.421455938697318
+Recall Score average=None
+[1.         1.         1.         1.         1.         1.
+ 1.         1.         1.         0.         1.         1.
+ 1.         1.         1.         1.         1.         1.
+ 1.         1.         1.         0.77777778 1.         0.
+ 1.         1.         1.         1.         1.         1.
+ 1.         1.         0.69230769 0.86       0.68571429 0.
+ 0.         0.         0.        ]
+F1 score average=macro
+0.0809224338730373
+F1 score average=micro
+0.42145593869731807
+F1 Score average=weighted
+0.468416904256221
+F1 Score average=None
+[0.         0.         0.         0.         0.         0.
+ 0.         0.         0.         0.         0.         0.
+ 0.         0.         0.         0.         0.         0.
+ 0.         0.         0.         0.60869565 0.         0.
+ 0.         0.         0.         0.         0.         0.
+ 0.         0.         0.80898876 0.92473118 0.81355932 0.
+ 0.         0.         0.        ]

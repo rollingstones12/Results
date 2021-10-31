@@ -1,0 +1,48 @@
+{'0': 'Ford Explorer 2018', '1': 'Ford Transit 2016', '2': 'Ford Explorer 2018', '3': 'Ford Explorer 2018', '4': 'Ford Expedition 2017', '5': 'Ford Transit 2016', '6': 'Ford Expedition 2017', '7': 'Ford Transit 2016', '8': 'GMC Yukon 2004', '9': 'Toyota Tacoma 2010', '10': 'Toyota Tacoma 2010', '11': 'GMC Savana Van 2012', '12': 'Toyota Tacoma 2010', '13': 'Ford Transit 2016', '14': 'GMC Savana Van 2012', '15': 'Ford Transit 2016', '16': 'Subaru Legacy Sedan B4 2010', '17': 'Subaru Legacy Sedan B4 2010', '18': 'Honda Ridgeline 2016', '19': 'Ford Transit 2016', '20': 'Chevrolet Silverado 1500 Extended Cab 2012', '21': 'Honda Ridgeline 2016', '22': 'Honda Accord Coupe 2012'}
+precision average=macro
+0.22899048625792814
+precision average=micro
+0.5984848484848485
+precision average=weighted
+0.9835571625344353
+precision average=None
+[0.         0.         0.         0.         0.         0.
+ 0.         0.         0.         0.         0.         0.
+ 0.         0.         0.         0.         1.         0.
+ 0.         0.         0.         0.         0.9375     0.
+ 0.         1.         0.         0.         0.         0.
+ 0.         0.         0.         0.         0.         0.
+ 1.         1.         0.90909091 1.         1.         1.
+ 1.        ]
+accuracy is
+0.5984848484848485
+Recall score average=macro
+0.8658732872994158
+Recall score average=micro
+0.5984848484848485
+Recall Score average=weighted
+0.5984848484848485
+Recall Score average=None
+[1.         1.         1.         1.         1.         1.
+ 1.         1.         1.         1.         1.         1.
+ 1.         1.         1.         1.         0.         1.
+ 1.         1.         1.         1.         0.75       1.
+ 1.         0.         1.         1.         1.         1.
+ 1.         1.         1.         1.         1.         1.
+ 1.         0.85714286 0.88235294 0.1875     0.         0.55555556
+ 0.        ]
+F1 score average=macro
+0.10888390307999728
+F1 score average=micro
+0.5984848484848485
+F1 Score average=weighted
+0.6468528089698554
+F1 Score average=None
+[0.         0.         0.         0.         0.         0.
+ 0.         0.         0.         0.         0.         0.
+ 0.         0.         0.         0.         0.         0.
+ 0.         0.         0.         0.         0.83333333 0.
+ 0.         0.         0.         0.         0.         0.
+ 0.         0.         0.         0.         0.         0.
+ 1.         0.92307692 0.89552239 0.31578947 0.         0.71428571
+ 0.        ]

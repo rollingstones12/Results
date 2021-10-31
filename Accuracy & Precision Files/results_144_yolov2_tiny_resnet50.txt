@@ -1,0 +1,42 @@
+{'0': 'Ford Transit 2016', '1': 'Ford Expedition 2017', '2': 'Ford Explorer 2018', '3': 'Ford Transit 2016', '4': 'Ford Transit 2016', '5': 'Ford Expedition 2017', '6': 'Ford Expedition 2017', '7': 'GMC Yukon 2004', '8': 'Toyota Tacoma 2010', '9': 'Toyota Tacoma 2010', '10': 'GMC Savana Van 2012', '11': 'GMC Savana Van 2012', '12': 'Ford Transit 2016', '13': 'Subaru Legacy Sedan B4 2010', '14': 'Honda Ridgeline 2016', '15': 'Chevrolet Silverado 1500 Extended Cab 2012', '16': 'Honda Accord Coupe 2012'}
+precision average=macro
+0.2723214285714286
+precision average=micro
+0.20224719101123595
+precision average=weighted
+0.9502407704654896
+precision average=None
+[0.         0.         0.         0.         0.         0.
+ 0.         0.         0.         0.         1.         0.
+ 0.         0.         0.         0.         0.         0.71428571
+ 0.         0.         0.         0.         0.         0.
+ 0.         1.         1.         1.         1.         1.
+ 1.         1.        ]
+accuracy is
+0.20224719101123595
+Recall score average=macro
+0.7432215073529411
+Recall score average=micro
+0.20224719101123595
+Recall Score average=weighted
+0.20224719101123595
+Recall Score average=None
+[1.         1.         1.         1.         1.         1.
+ 1.         1.         1.         1.         0.         1.
+ 1.         1.         1.         1.         1.         1.
+ 1.         0.         1.         1.         1.         1.
+ 1.         0.         0.3125     0.47058824 0.         0.
+ 0.         0.        ]
+F1 score average=macro
+0.06092261904761904
+F1 score average=micro
+0.20224719101123592
+F1 Score average=weighted
+0.2546709470304976
+F1 Score average=None
+[0.         0.         0.         0.         0.         0.
+ 0.         0.         0.         0.         0.         0.
+ 0.         0.         0.         0.         0.         0.83333333
+ 0.         0.         0.         0.         0.         0.
+ 0.         0.         0.47619048 0.64       0.         0.
+ 0.         0.        ]

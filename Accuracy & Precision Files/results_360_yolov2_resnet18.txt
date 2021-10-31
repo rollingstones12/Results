@@ -1,0 +1,48 @@
+{'0': 'Ford Explorer 2018', '1': 'Ford Transit 2016', '2': 'Ford Transit 2016', '3': 'Ford Expedition 2017', '4': 'GMC Yukon 2004', '5': 'Toyota Tacoma 2010', '6': 'Toyota Tacoma 2010', '7': 'GMC Savana Van 2012', '8': 'Ford Transit 2016', '9': 'Subaru Legacy Sedan B4 2010', '10': 'Honda Ridgeline 2016', '11': 'Chevrolet Silverado 1500 Extended Cab 2012', '12': 'Subaru Legacy Sedan B4 2010', '13': 'Honda Accord Coupe 2012'}
+precision average=macro
+0.20212121212121215
+precision average=micro
+0.44660194174757284
+precision average=weighted
+0.9354908306364618
+precision average=None
+[0.         0.         0.         0.         0.         0.
+ 0.         0.         0.         0.         0.         0.
+ 0.         0.         0.         0.         0.33333333 0.
+ 0.         0.         0.         0.         0.         0.
+ 0.         0.         0.         0.56       1.         0.
+ 0.         0.         0.         0.         0.         0.
+ 0.         1.         1.         1.         1.         1.
+ 1.         1.        ]
+accuracy is
+0.44660194174757284
+Recall score average=macro
+0.8494054956343091
+Recall score average=micro
+0.44660194174757284
+Recall Score average=weighted
+0.44660194174757284
+Recall Score average=None
+[1.         1.         1.         1.         1.         1.
+ 1.         1.         1.         1.         1.         1.
+ 1.         1.         1.         1.         0.05       1.
+ 1.         1.         1.         1.         1.         1.
+ 1.         1.         1.         0.93333333 0.         1.
+ 1.         1.         1.         1.         1.         1.
+ 1.         0.74       0.83050847 0.66       0.16       0.
+ 0.         0.        ]
+F1 score average=macro
+0.08218139621925681
+F1 score average=micro
+0.44660194174757284
+F1 Score average=weighted
+0.5014902620476369
+F1 Score average=None
+[0.         0.         0.         0.         0.         0.
+ 0.         0.         0.         0.         0.         0.
+ 0.         0.         0.         0.         0.08695652 0.
+ 0.         0.         0.         0.         0.         0.
+ 0.         0.         0.         0.7        0.         0.
+ 0.         0.         0.         0.         0.         0.
+ 0.         0.85057471 0.90740741 0.79518072 0.27586207 0.
+ 0.         0.        ]

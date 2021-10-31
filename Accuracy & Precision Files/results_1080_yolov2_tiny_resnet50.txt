@@ -1,0 +1,45 @@
+{'0': 'Ford Explorer 2018', '1': 'Ford Transit 2016', '2': 'Ford Expedition 2017', '3': 'Ford Explorer 2018', '4': 'Ford Transit 2016', '5': 'Ford Expedition 2017', '6': 'Ford Expedition 2017', '7': 'Ford Expedition 2017', '8': 'GMC Yukon 2004', '9': 'GMC Yukon 2004', '10': 'Toyota Tacoma 2010', '11': 'Toyota Tacoma 2010', '12': 'Toyota Tacoma 2010', '13': 'GMC Savana Van 2012', '14': 'Ford Transit 2016', '15': 'Subaru Legacy Sedan B4 2010', '16': 'Ford Transit 2016', '17': 'Honda Ridgeline 2016', '18': 'Chevrolet Silverado 1500 Extended Cab 2012', '19': 'Honda Ridgeline 2016', '20': 'Chevrolet Silverado 1500 Extended Cab 2012', '21': 'Honda Accord Coupe 2012', '22': 'Honda Accord Coupe 2012', '23': 'Honda Accord Coupe 2012'}
+precision average=macro
+0.24444444444444444
+precision average=micro
+0.3211009174311927
+precision average=weighted
+0.9584097859327216
+precision average=None
+[0.         0.         0.         0.         0.         0.
+ 0.         0.         0.         0.         0.         0.
+ 1.         0.         0.         0.         0.         0.
+ 0.         0.66666667 1.         0.         0.         0.
+ 0.         0.         0.         0.         0.         0.
+ 0.         0.         1.         1.         0.86666667 1.
+ 1.         1.         1.        ]
+accuracy is
+0.3211009174311927
+Recall score average=macro
+0.812767590166971
+Recall score average=micro
+0.3211009174311927
+Recall Score average=weighted
+0.3211009174311927
+Recall Score average=None
+[1.         1.         1.         1.         1.         1.
+ 1.         1.         1.         1.         1.         1.
+ 0.         1.         1.         1.         1.         1.
+ 1.         0.66666667 0.         1.         1.         1.
+ 1.         1.         1.         1.         1.         1.
+ 1.         1.         0.7        0.64705882 0.68421053 0.
+ 0.         0.         0.        ]
+F1 score average=macro
+0.07796451914098973
+F1 score average=micro
+0.3211009174311927
+F1 Score average=weighted
+0.36809035540821833
+F1 Score average=None
+[0.         0.         0.         0.         0.         0.
+ 0.         0.         0.         0.         0.         0.
+ 0.         0.         0.         0.         0.         0.
+ 0.         0.66666667 0.         0.         0.         0.
+ 0.         0.         0.         0.         0.         0.
+ 0.         0.         0.82352941 0.78571429 0.76470588 0.
+ 0.         0.         0.        ]

@@ -1,0 +1,45 @@
+{'0': 'Ford Explorer 2018', '1': 'Ford Transit 2016', '2': 'Ford Transit 2016', '3': 'Ford Expedition 2017', '4': 'GMC Yukon 2004', '5': 'Toyota Tacoma 2010', '6': 'Toyota Tacoma 2010', '7': 'GMC Savana Van 2012', '8': 'Ford Transit 2016', '9': 'Subaru Legacy Sedan B4 2010', '10': 'Honda Ridgeline 2016', '11': 'Chevrolet Silverado 1500 Extended Cab 2012', '12': 'Subaru Legacy Sedan B4 2010', '13': 'Honda Accord Coupe 2012'}
+precision average=macro
+0.26126126126126126
+precision average=micro
+0.4886731391585761
+precision average=weighted
+0.9730312837108953
+precision average=None
+[0.         0.         0.         0.         0.         0.
+ 0.         0.         0.         0.         0.         1.
+ 0.         0.         0.         0.         0.         0.
+ 0.         0.         0.66666667 1.         0.         0.
+ 0.         0.         0.         0.         0.         0.
+ 1.         1.         1.         1.         1.         1.
+ 1.        ]
+accuracy is
+0.4886731391585761
+Recall score average=macro
+0.8179776674937965
+Recall score average=micro
+0.4886731391585761
+Recall Score average=weighted
+0.4886731391585761
+Recall Score average=None
+[1.         1.         1.         1.         1.         1.
+ 1.         1.         1.         1.         1.         0.03333333
+ 1.         1.         1.         1.         1.         1.
+ 1.         1.         0.88       0.         1.         1.
+ 1.         1.         1.         1.         1.         1.
+ 0.79166667 0.88709677 0.67307692 0.         0.         0.
+ 0.        ]
+F1 score average=macro
+0.09328719973622579
+F1 score average=micro
+0.4886731391585761
+F1 Score average=weighted
+0.5289620858054311
+F1 Score average=None
+[0.         0.         0.         0.         0.         0.
+ 0.         0.         0.         0.         0.         0.06451613
+ 0.         0.         0.         0.         0.         0.
+ 0.         0.         0.75862069 0.         0.         0.
+ 0.         0.         0.         0.         0.         0.
+ 0.88372093 0.94017094 0.8045977  0.         0.         0.
+ 0.        ]
